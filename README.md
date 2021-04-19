@@ -2,6 +2,7 @@
 Java version 8
 
 Project was tested in Chrome version 90.0.4430.72
+
 Prerequisites:
 - Java 8 installed
 - Maven available on path
