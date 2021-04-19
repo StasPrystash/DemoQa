@@ -1,3 +1,5 @@
+package tests;
+
 import com.codeborne.selenide.Condition;
 import models.User;
 import models.user_attributes.Gender;
